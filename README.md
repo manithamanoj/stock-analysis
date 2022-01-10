@@ -9,6 +9,7 @@ In this Module 2 challenge we are going to refactor the code to make the code mo
 Challenge Background
 
 Steve just finished his finance degree and an excel savvy. His parents would like to invest in stocks and asked his expertise to take a decision. Here we have used Excel with VBA scripting to analyze the entire stock. We helped Steve to create a workbook “Analyze 2017 and 2018 Stock” and he is pretty much happy with that. Now, to do a little more research for his parents, he wants to expand the dataset to include the entire stock market over the last few years. Although the code works well for a dozen stocks, it might not work as well for thousands of stocks. And if it does, it may take a long time to execute.
+
 Analysis
 
 First download the challenge_starter_code.vbs and rename it to VBA_Challenge.vbs. Then create a Resource folder to hold the screenshots. Rename the green_stocks.xlsm to VBA_Challenge.xlsm then add the VBA_Challenge.vbs script to the Microsoft Visual Basic editor. Then start refactoring the code. 
