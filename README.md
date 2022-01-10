@@ -48,11 +48,14 @@ Result for 2018
  ![image](https://user-images.githubusercontent.com/72629108/148719407-dc693e24-38db-4f36-893d-24933f9807f7.png)
  
 From this we can conclude that after refactoring the code it took less time to run the code and the results are same as the “All stock analysis”.
+
 **Advantages**
+
 Refactoring is a key part of the coding process. When refactoring code, you aren’t adding new functionality, you just want to make the code more efficient by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Refactoring is common on the job because first attempts at code won’t always be the best way to accomplish a task. Sometimes, refactoring someone else’s code will be your entry point to working with the existing code at a job.
 By refactoring our “All stock analysis” code, we were able to decrease the time for running the code.
 
 **Cons**
+
 Even if we are running the same code on the same spreadsheet for same year we are getting different running time.
 
 
